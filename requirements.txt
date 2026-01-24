@@ -1,0 +1,5 @@
+aiogram>=3.4.1
+yt-dlp>=2024.07.16
+python-dotenv>=1.0.1
+pydantic>=2.7.1
+pydantic-settings>=2.2.1
